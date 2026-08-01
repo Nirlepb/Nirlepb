@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="130" viewBox="0 0 860 130">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1033"/>
+      <stop offset="50%" stop-color="#2d1b4e"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6ec4"/>
+      <stop offset="25%" stop-color="#7873f5"/>
+      <stop offset="50%" stop-color="#4ade80"/>
+      <stop offset="75%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#ff6ec4"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6ec4"/>
+      <stop offset="35%" stop-color="#a78bfa"/>
+      <stop offset="70%" stop-color="#4ade80"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+    <style>
+      .headline { font-family: 'Segoe UI', sans-serif; font-weight: 800; font-size: 32px; fill: url(#textGrad); }
+      .sub { font-family: monospace; font-size: 15px; fill: #c9d1d9; opacity: 0; animation: typeIn 0.05s linear forwards; }
+    </style>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="857" height="127" rx="16" fill="url(#bg)" stroke="url(#border)" stroke-width="2.5"/>
+
+  <!-- floating sparkles -->
+  <circle cx="60" cy="30" r="3" fill="#ffd93d"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="790" cy="45" r="2.5" fill="#4ade80"><animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="820" cy="100" r="3" fill="#ff6ec4"><animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="40" cy="105" r="2" fill="#7873f5"><animate attributeName="opacity" values="1;0.3;1" dur="2.7s" repeatCount="indefinite"/></circle>
+
+  <text x="430" y="60" text-anchor="middle" class="headline">Hi, I'm Nirlep 👋</text>
+
+  <g transform="translate(0,0)">
+    <text x="430" y="92" text-anchor="middle" font-family="monospace" font-size="15" fill="#e6edf3" opacity="0">
+      Java Developer · Full-Stack &amp; AI Enthusiast
+      <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.6s" fill="freeze"/>
+    </text>
+  </g>
+
+  <text x="430" y="114" text-anchor="middle" font-family="monospace" font-size="12" fill="#9ca3af" opacity="0">
+    building things · breaking things · learning always
+    <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.6s" fill="freeze"/>
+  </text>
+</svg>
