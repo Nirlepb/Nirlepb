@@ -5,8 +5,8 @@
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+☕;Building+with+Java+%2B+AI+🤖;Always+shipping+something+new+🚀"
-alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code;Building+with+Java+%2B+AI;Always+shipping+something+new"
+  alt="Typing SVG"
 />
 
 <br><br>
