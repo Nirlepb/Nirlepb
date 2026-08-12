@@ -42,7 +42,7 @@
 
 <br>
 
-## 🛠️ Tech Stack
+
 
 <p>
 
