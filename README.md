@@ -57,14 +57,6 @@
 
 ## Tech stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,spring,git,github,vscode&theme=dark&perline=6">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,spring,git,github,vscode&theme=light&perline=6">
-  <img alt="Skills" src="https://skillicons.dev/icons?i=java,python,spring,git,github,vscode&theme=light&perline=6">
-</picture>
-
-<br/>
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd93d"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -80,28 +72,17 @@
 ## GitHub stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nirlepb&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=ec4899&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nirlepb&show_icons=true&theme=transparent&hide_border=true&title_color=7c3aed&icon_color=db2777&text_color=24292f&include_all_commits=true&count_private=true&rank_icon=github">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Nirlepb&show_icons=true&theme=transparent&hide_border=true&title_color=7c3aed&icon_color=db2777&text_color=24292f&include_all_commits=true&count_private=true&rank_icon=github" height="175">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirlepb&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=a78bfa&text_color=c9d1d9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirlepb&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=7c3aed&text_color=24292f">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirlepb&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=7c3aed&text_color=24292f" height="175">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Nirlepb&theme=transparent&hide_border=true&ring=ec4899&fire=f59e0b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Nirlepb&theme=transparent&hide_border=true&ring=db2777&fire=f59e0b&currStreakNum=24292f&sideNums=24292f&currStreakLabel=7c3aed&sideLabels=57606a&dates=57606a">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=Nirlepb&theme=transparent&hide_border=true&ring=db2777&fire=f59e0b&currStreakNum=24292f&sideNums=24292f&currStreakLabel=7c3aed&sideLabels=57606a&dates=57606a" height="175">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg">
+  <img alt="GitHub stats" src="./assets/stats-light.svg" width="100%">
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nirlepb&bg_color=0d1117&color=a78bfa&line=ec4899&point=ffffff&area=true&area_color=7c3aed&hide_border=true&title_color=a78bfa">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nirlepb&bg_color=ffffff&color=7c3aed&line=db2777&point=1f2328&area=true&area_color=a78bfa&hide_border=true&title_color=7c3aed">
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Nirlepb&bg_color=ffffff&color=7c3aed&line=db2777&point=1f2328&area=true&area_color=a78bfa&hide_border=true&title_color=7c3aed" width="98%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/heatmap-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/heatmap-light.svg">
+  <img alt="Contribution heatmap" src="./assets/heatmap-light.svg" width="100%">
 </picture>
 
 <picture>

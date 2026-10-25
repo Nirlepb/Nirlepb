@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="312" viewBox="0 0 900 312" role="img" aria-label="GitHub stats">
+<defs><style>text{font-family:'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif}.v{font-size:30px;font-weight:700}.l{font-size:13px;fill:#57606a}@keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}.i{animation:up .7s both}</style><clipPath id="bar"><rect x="510" y="76" width="350" height="10" rx="5"/></clipPath></defs>
+<rect x="1" y="1" width="898" height="310" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<g class="i" style="animation-delay:0.00s"><text class="l" x="40" y="56">Stars</text><text class="v" x="40" y="88" fill="#7c3aed">—</text></g>
+<g class="i" style="animation-delay:0.08s"><text class="l" x="250" y="56">Commits · past year</text><text class="v" x="250" y="88" fill="#db2777">—</text></g>
+<g class="i" style="animation-delay:0.16s"><text class="l" x="40" y="118">Pull requests</text><text class="v" x="40" y="150" fill="#db2777">—</text></g>
+<g class="i" style="animation-delay:0.24s"><text class="l" x="250" y="118">Issues</text><text class="v" x="250" y="150" fill="#7c3aed">—</text></g>
+<g class="i" style="animation-delay:0.32s"><text class="l" x="40" y="180">Public repos</text><text class="v" x="40" y="212" fill="#7c3aed">—</text></g>
+<g class="i" style="animation-delay:0.40s"><text class="l" x="250" y="180">Followers</text><text class="v" x="250" y="212" fill="#db2777">—</text></g>
+<line x1="470" y1="36" x2="470" y2="216" stroke="#d0d7de"/>
+<text class="l" x="510" y="60" style="letter-spacing:1px;text-transform:uppercase">Top languages</text>
+<rect x="510" y="76" width="350" height="10" rx="5" fill="#eaeef2"/>
+<text x="510" y="120" font-size="13" fill="#57606a">Fills in after the first workflow run</text>
+<line x1="30" y1="240" x2="870" y2="240" stroke="#d0d7de"/>
+<text x="150" y="276" text-anchor="middle" font-size="24" font-weight="700" fill="#7c3aed">—</text><text x="150" y="298" text-anchor="middle" class="l">Contributions · past year</text>
+<text x="450" y="276" text-anchor="middle" font-size="24" font-weight="700" fill="#db2777">—</text><text x="450" y="298" text-anchor="middle" class="l">Current streak</text>
+<text x="750" y="276" text-anchor="middle" font-size="24" font-weight="700" fill="#7c3aed">—</text><text x="750" y="298" text-anchor="middle" class="l">Longest streak</text>
+</svg>
