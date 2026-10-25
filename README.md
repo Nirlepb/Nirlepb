@@ -1,117 +1,166 @@
 <div align="center">
 
-<img src="./header-banner.svg" width="860" alt="Banner"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Nirlep Boddupally" src="./assets/hero-light.svg" width="100%">
+</picture>
 
-<br>
+<a href="https://github.com/nirlepb">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Turning+coffee+into+code+%E2%98%95;Building+with+Java+%2B+AI;Always+shipping+something+new+%F0%9F%9A%80">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=640&lines=Turning+coffee+into+code+%E2%98%95;Building+with+Java+%2B+AI;Always+shipping+something+new+%F0%9F%9A%80">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=640&lines=Turning+coffee+into+code+%E2%98%95;Building+with+Java+%2B+AI;Always+shipping+something+new+%F0%9F%9A%80">
+</picture>
+</a>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code;Building+with+Java+%2B+AI;Always+shipping+something+new"
-  alt="Typing SVG"
-/>
+<br/>
 
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=nirlepb&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://img.shields.io/github/followers/nirlepb?style=flat-square&label=Followers&color=db2777&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/nirlepb?style=flat-square&label=Stars&color=f59e0b&logo=github" alt="stars"/>
 
-![](https://komarev.com/ghpvc/?username=nirlepb&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/nirlepb?style=for-the-badge&label=Followers&color=ff6ec4)
+<br/><br/>
 
-<br><br>
+<a href="https://github.com/nirlepb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/nirlep-boddupally-a82421395/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:nirlepboddupally@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<h3><code>nirlepb@github:~$ ./contributions.sh</code></h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider.svg">
+  <img alt="" src="./assets/divider.svg" width="100%">
+</picture>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution Heatmap"/>
+## whoami
 
-<br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg">
+  <img alt="About Nirlep" src="./assets/about-light.svg" width="720">
+</picture>
 
-<h3><code>nirlepb@github:~$ whoami</code></h3>
-
-<table>
+<table align="center">
 <tr>
-<td width="40%">
-
-<img src="./avi-ascii.svg" width="370"/>
-
-</td>
-
-<td width="60%">
-
-<img src="./info-card.svg" width="490"/>
-
-</td>
+<td align="center" width="180">🔭<br/><b>Now</b><br/><sub>Java + AI projects</sub></td>
+<td align="center" width="180">🧠<br/><b>Sharpening</b><br/><sub>Data structures &amp; algorithms</sub></td>
+<td align="center" width="180">🌱<br/><b>Learning</b><br/><sub>Spring Boot &amp; ML</sub></td>
+<td align="center" width="180">💬<br/><b>Ask me about</b><br/><sub>Java, Python, DSA</sub></td>
 </tr>
 </table>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider.svg">
+  <img alt="" src="./assets/divider.svg" width="100%">
+</picture>
 
+## Tech stack
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,spring,git,github,vscode&theme=dark&perline=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,spring,git,github,vscode&theme=light&perline=6">
+  <img alt="Skills" src="https://skillicons.dev/icons?i=java,python,spring,git,github,vscode&theme=light&perline=6">
+</picture>
 
-<p>
+<br/>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd93d"/>
-
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/AI%2FML-7873F5?style=for-the-badge&logo=openai&logoColor=white"/>
 
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider.svg">
+  <img alt="" src="./assets/divider.svg" width="100%">
+</picture>
 
-<br>
+## GitHub stats
 
-## 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nirlepb&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=ec4899&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nirlepb&show_icons=true&theme=transparent&hide_border=true&title_color=7c3aed&icon_color=db2777&text_color=24292f&include_all_commits=true&count_private=true&rank_icon=github">
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=nirlepb&show_icons=true&theme=transparent&hide_border=true&title_color=7c3aed&icon_color=db2777&text_color=24292f&include_all_commits=true&count_private=true&rank_icon=github" height="175">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nirlepb&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=a78bfa&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nirlepb&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=7c3aed&text_color=24292f">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirlepb&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=7c3aed&text_color=24292f" height="175">
+</picture>
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nirlepb&theme=transparent&hide_border=true&ring=ec4899&fire=f59e0b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nirlepb&theme=transparent&hide_border=true&ring=db2777&fire=f59e0b&currStreakNum=24292f&sideNums=24292f&currStreakLabel=7c3aed&sideLabels=57606a&dates=57606a">
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=nirlepb&theme=transparent&hide_border=true&ring=db2777&fire=f59e0b&currStreakNum=24292f&sideNums=24292f&currStreakLabel=7c3aed&sideLabels=57606a&dates=57606a" height="175">
+</picture>
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=nirlepb&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec4&icon_color=fbbf24&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800"
-/>
+<br/>
 
-<img
-height="170"
-src="https://streak-stats.demolab.com?user=nirlepb&theme=radical&hide_border=true&background=0d1117&ring=ff6ec4&fire=fbbf24&currStreakLabel=c9d1d9"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nirlepb&bg_color=0d1117&color=a78bfa&line=ec4899&point=ffffff&area=true&area_color=7c3aed&hide_border=true&title_color=a78bfa">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nirlepb&bg_color=ffffff&color=7c3aed&line=db2777&point=1f2328&area=true&area_color=a78bfa&hide_border=true&title_color=7c3aed">
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nirlepb&bg_color=ffffff&color=7c3aed&line=db2777&point=1f2328&area=true&area_color=a78bfa&hide_border=true&title_color=7c3aed" width="98%">
+</picture>
 
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider.svg">
+  <img alt="" src="./assets/divider.svg" width="100%">
+</picture>
 
-<br>
+## Contribution snake
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nirlepb/nirlepb/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nirlepb/nirlepb/output/github-snake.svg">
+  <img alt="Snake" src="https://raw.githubusercontent.com/nirlepb/nirlepb/output/github-snake.svg" width="100%">
+</picture>
 
-<img
-width="98%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=nirlepb&theme=github-compact&hide_border=true&bg_color=0d1117&color=ff6ec4&line=fbbf24&point=ffffff"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider.svg">
+  <img alt="" src="./assets/divider.svg" width="100%">
+</picture>
 
-</p>
+## Trophies
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=nirlepb&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=nirlepb&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=nirlepb&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8">
+</picture>
 
-## 🌐 Connect with Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider.svg">
+  <img alt="" src="./assets/divider.svg" width="100%">
+</picture>
 
-<p>
+## Featured projects
 
-<a href="https://github.com/nirlepb">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://github.com/nirlepb/YOUR-REPO-1"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nirlepb&repo=YOUR-REPO-1&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=ec4899&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nirlepb&repo=YOUR-REPO-1&theme=transparent&hide_border=true&title_color=7c3aed&icon_color=db2777&text_color=24292f">
+  <img alt="Project 1" src="https://github-readme-stats.vercel.app/api/pin/?username=nirlepb&repo=YOUR-REPO-1&theme=transparent&hide_border=true&title_color=7c3aed&icon_color=db2777&text_color=24292f">
+</picture></a>
+<a href="https://github.com/nirlepb/YOUR-REPO-2"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nirlepb&repo=YOUR-REPO-2&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=ec4899&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nirlepb&repo=YOUR-REPO-2&theme=transparent&hide_border=true&title_color=7c3aed&icon_color=db2777&text_color=24292f">
+  <img alt="Project 2" src="https://github-readme-stats.vercel.app/api/pin/?username=nirlepb&repo=YOUR-REPO-2&theme=transparent&hide_border=true&title_color=7c3aed&icon_color=db2777&text_color=24292f">
+</picture></a>
 
-<a href="https://www.linkedin.com/in/nirlep-boddupally-a82421395/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="mailto:nirlepboddupally@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<i>First, solve the problem. Then, write the code.</i>
 
-</p>
+<br/>
 
-<br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=6,11,20&section=footer"
-width="100%"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:7c3aed,100:ec4899&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ec4899,50:7c3aed,100:e9d5ff&section=footer">
+  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ec4899,50:7c3aed,100:e9d5ff&section=footer" width="100%">
+</picture>
 
 </div>

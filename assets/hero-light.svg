@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Nirlep Boddupally - Java, Python, AI/ML">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f3e9ff"/></linearGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7c3aed"/><stop offset=".5" stop-color="#db2777"/><stop offset="1" stop-color="#0284c7"/></linearGradient>
+<linearGradient id="nm" gradientUnits="userSpaceOnUse" x1="80" y1="0" x2="780" y2="0" spreadMethod="reflect">
+<stop offset="0" stop-color="#7c3aed"/><stop offset=".5" stop-color="#db2777"/><stop offset="1" stop-color="#0284c7"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1400 0" dur="10s" repeatCount="indefinite"/>
+</linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="rgba(124,58,237,0.09)" stroke-width="1"/></pattern>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter>
+<clipPath id="card"><rect width="1200" height="320" rx="22"/></clipPath>
+<style>
+.t{font-family:'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif}
+.m{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+@keyframes pu{0%,100%{opacity:1}50%{opacity:.25}}
+.u1{animation:up .9s .1s both}.u2{animation:up .9s .3s both}.u3{animation:up .9s .5s both}.u4{animation:up .9s .7s both}
+.f1{animation:fl 6s ease-in-out infinite}.f2{animation:fl 7s ease-in-out -2s infinite}.f3{animation:fl 8s ease-in-out -4s infinite}
+.p{animation:pu 1.6s ease-in-out infinite}
+</style>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1200" height="320" fill="url(#bg)"/>
+<rect width="1200" height="320" fill="url(#grid)"/>
+<circle cx="180" cy="70" r="150" fill="#7c3aed" opacity="0.30" filter="url(#blur)"><animate attributeName="cx" values="180;320;180" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="1010" cy="270" r="150" fill="#db2777" opacity="0.30" filter="url(#blur)"><animate attributeName="cy" values="270;190;270" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="720" cy="30" r="110" fill="#0284c7" opacity="0.25" filter="url(#blur)"><animate attributeName="cx" values="720;600;720" dur="14s" repeatCount="indefinite"/></circle>
+<text class="m f1" x="880" y="150" font-size="120" fill="#7c3aed" opacity="0.22">&lt;/&gt;</text>
+<text class="m f2" x="1010" y="250" font-size="90" fill="#db2777" opacity="0.22">{ }</text>
+<text class="m f3" x="1040" y="100" font-size="64" fill="#0284c7" opacity="0.28">;</text>
+<text class="m u1" x="80" y="92" font-size="20" fill="#7c3aed">&lt; hello world /&gt;</text>
+<text class="t u2" x="80" y="180" font-size="74" font-weight="800" fill="url(#nm)" letter-spacing="-1">Nirlep Boddupally</text>
+<text class="t u3" x="80" y="228" font-size="26" fill="#424a53">Java  ·  Python  ·  AI/ML  ·  Problem solving</text>
+<g class="u4">
+<rect x="80" y="258" width="268" height="38" rx="19" fill="#7c3aed" fill-opacity="0.12" stroke="#7c3aed" stroke-opacity="0.45"/>
+<circle class="p" cx="103" cy="277" r="5" fill="#22c55e"/>
+<text class="m" x="120" y="283" font-size="16" fill="#424a53">shipping something new</text>
+</g>
+</g>
+<rect x="1" y="1" width="1198" height="318" rx="21" fill="none" stroke="url(#bd)" stroke-opacity="0.55" stroke-width="2"/>
+</svg>
