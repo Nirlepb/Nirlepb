@@ -19,6 +19,6 @@
 <circle cx="695" cy="174" r="5" fill="#f34b7d"/><text x="708" y="178" font-size="14" fill="#1f2328">C++ <tspan fill="#57606a">0.5%</tspan></text>
 <line x1="30" y1="240" x2="870" y2="240" stroke="#d0d7de"/>
 <text x="150" y="276" text-anchor="middle" font-size="24" font-weight="700" fill="#7c3aed">208</text><text x="150" y="298" text-anchor="middle" class="l">Contributions · past year</text>
-<text x="450" y="276" text-anchor="middle" font-size="24" font-weight="700" fill="#db2777">1 day</text><text x="450" y="298" text-anchor="middle" class="l">Current streak</text>
+<text x="450" y="276" text-anchor="middle" font-size="24" font-weight="700" fill="#db2777">0 days</text><text x="450" y="298" text-anchor="middle" class="l">Current streak</text>
 <text x="750" y="276" text-anchor="middle" font-size="24" font-weight="700" fill="#7c3aed">6 days</text><text x="750" y="298" text-anchor="middle" class="l">Longest streak</text>
 </svg>
