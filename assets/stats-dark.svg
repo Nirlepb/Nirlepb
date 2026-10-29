@@ -6,7 +6,7 @@
 <g class="i" style="animation-delay:0.16s"><text class="l" x="40" y="118">Pull requests</text><text class="v" x="40" y="150" fill="#ec4899">2</text></g>
 <g class="i" style="animation-delay:0.24s"><text class="l" x="250" y="118">Issues</text><text class="v" x="250" y="150" fill="#a78bfa">0</text></g>
 <g class="i" style="animation-delay:0.32s"><text class="l" x="40" y="180">Public repos</text><text class="v" x="40" y="212" fill="#a78bfa">10</text></g>
-<g class="i" style="animation-delay:0.40s"><text class="l" x="250" y="180">Followers</text><text class="v" x="250" y="212" fill="#ec4899">9</text></g>
+<g class="i" style="animation-delay:0.40s"><text class="l" x="250" y="180">Followers</text><text class="v" x="250" y="212" fill="#ec4899">8</text></g>
 <line x1="470" y1="36" x2="470" y2="216" stroke="#30363d"/>
 <text class="l" x="510" y="60" style="letter-spacing:1px;text-transform:uppercase">Top languages</text>
 <rect x="510" y="76" width="350" height="10" rx="5" fill="#21262d"/>
