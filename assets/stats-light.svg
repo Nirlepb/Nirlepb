@@ -20,5 +20,5 @@
 <line x1="30" y1="240" x2="870" y2="240" stroke="#d0d7de"/>
 <text x="150" y="276" text-anchor="middle" font-size="24" font-weight="700" fill="#7c3aed">203</text><text x="150" y="298" text-anchor="middle" class="l">Contributions · past year</text>
 <text x="450" y="276" text-anchor="middle" font-size="24" font-weight="700" fill="#db2777">0 days</text><text x="450" y="298" text-anchor="middle" class="l">Current streak</text>
-<text x="750" y="276" text-anchor="middle" font-size="24" font-weight="700" fill="#7c3aed">6 days</text><text x="750" y="298" text-anchor="middle" class="l">Longest streak</text>
+<text x="750" y="276" text-anchor="middle" font-size="24" font-weight="700" fill="#7c3aed">5 days</text><text x="750" y="298" text-anchor="middle" class="l">Longest streak</text>
 </svg>
